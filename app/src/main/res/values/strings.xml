@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlueTriangle Compose Demo</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="products">Products</string>
+    <string name="cart">Cart</string>
+    <string name="settings">Settings</string>
+</resources>
